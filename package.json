@@ -1,0 +1,24 @@
+{
+  "name": "itunes-backup-recover",
+  "version": "0.1.0",
+  "description": "Recoveres media data from unencrypted backup",
+  "main": "itunes-backup-tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines" : { "node" : "^4.0" },
+  "keywords": [
+    "itunes",
+    "backup",
+    "revover"
+  ],
+  "author": "Robin Gruenke",
+  "license": "MIT",
+  "dependencies": {
+    "file-type": "^3.8.0",
+    "mime": "^1.3.4",
+    "node-uuid": "^1.4.7",
+    "read-chunk": "^2.0.0",
+    "simple-plist": "^0.1.4"
+  }
+}

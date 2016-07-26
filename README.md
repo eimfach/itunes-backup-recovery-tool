@@ -1,4 +1,5 @@
-# iTunes Backup Media Recovery Script
+# iTunes Backup Recovery Tool
+This tool recovers all media like pictures, videos and recorded audio from an (yet) unencrypted iTunes backup.
 
 Requirements: Node.js Runtime ^4.0
 

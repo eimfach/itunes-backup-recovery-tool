@@ -13,8 +13,7 @@ chmod +x ./itunes-backup-tool.js
 ## Check a backup folder:
 
 ```bash
-chmod +x itunes-backup-tool.js
-node ./itunes-backup-tool.js check /Users/xyz/yourBackupFolder
+./itunes-backup-tool.js check /Users/xyz/yourBackupFolder
 ```
 
 This will give you informations about the backup itself (if Info.plist exists)
@@ -23,7 +22,7 @@ and will show you how much files of the supported types exist in the folder.
 ## Copy all media files
 
 ```bash
-node ./itunes-backup-tool.js copy /Users/xyz/yourBackupFolder /Users/xyz/destinationFolder
+./itunes-backup-tool.js copy /Users/xyz/yourBackupFolder /Users/xyz/destinationFolder
 ```
 
 The new files are written to the destination directory with UUID filenames.

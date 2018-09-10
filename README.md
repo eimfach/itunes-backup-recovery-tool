@@ -51,6 +51,5 @@ The File types are recognized via magic number bytes.
 
 ## Please donate if you like and want to support development !
 
-Ethereum: **0x99F3343078D7C6697c66CAdF60e9840926d4e0e6**
+Ethereum: **0x686123523ef2d0d21c5e295ada6b46424e0b8e2c**
 
-Bitcoin: **3NTTx7jmhe8whix9LFL1QQGWFUATgCBaLo**
